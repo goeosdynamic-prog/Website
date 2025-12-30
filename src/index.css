@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body{
+   font-family: "Zalando Sans", sans-serif;
+}
+.page-container {
+  padding-top: 60px; /* Adjust based on navbar height */
+}
