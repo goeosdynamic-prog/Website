@@ -92,9 +92,7 @@ const Home = () => {
       {/* ================= HERO ================= */}
       <section className="relative min-h-screen flex items-center justify-center">
         <div className="relative text-center max-w-3xl px-6">
-          <h1 className="text-6xl md:text-7xl font-extrabold text-black tracking-tight transform transition-all duration-700 hover:scale-105">
-            DYNAMIC
-          </h1>
+          <img src="Logo.png" alt="" />
 
           <h2 className="text-xl md:text-2xl font-semibold text-gray-700 mt-2 transition-all duration-500 hover:text-black">
             One OS. Endless Possibilities.
